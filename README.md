@@ -27,13 +27,4 @@ const kazim = {
 };
 ```
 
-### Building at Karanix
-
-<a href="https://ontaba.com" title="Turizm ve seyahat teknolojileri"><img alt="Ontaba" src="https://img.shields.io/badge/Ontaba-1E293B?style=for-the-badge"/></a>
-<a href="https://karanpos.com" title="POS ve işletme yönetimi"><img alt="KaranPOS" src="https://img.shields.io/badge/KaranPOS-1E293B?style=for-the-badge"/></a>
-<a href="https://nevacortex.com" title="AI destekli omnichannel CRM"><img alt="Neva Cortex" src="https://img.shields.io/badge/Neva_Cortex-1E293B?style=for-the-badge"/></a>
-<a href="https://nevaomni.com" title="AI reklam ve içerik motoru"><img alt="Neva Omni" src="https://img.shields.io/badge/Neva_Omni-1E293B?style=for-the-badge"/></a>
-<a href="https://sorupik.com" title="Akıllı öğrenme ve sınav başarı platformu"><img alt="Sorupik" title="Akıllı öğrenme ve sınav başarı platformu" src="https://img.shields.io/badge/Sorupik-1E293B?style=for-the-badge"/>
-
----
 
