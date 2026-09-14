@@ -14,7 +14,7 @@ Full-stack geliştirme geçmişine sahip bir kurucu ve fintech teknik proje yön
 
 ```javascript
 const kazim = {
-  role: "Founder | Fintech Technical Project Manager | AI Architect - Engineer & Developer",
+  role: "Founder | Technical Project Manager | AI Architect",
   background: "Full-Stack Development",
   company: "Karanix",
   focus: ["Fintech", "SaaS", "AI Products"],
@@ -37,4 +37,3 @@ const kazim = {
 
 ---
 
-[**Karanix ↗**](https://karanix.com) · [**GitHub ↗**](https://github.com/Kazim1903)
