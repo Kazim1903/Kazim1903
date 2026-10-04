@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Karanix Mühendislik, Teknoloji, Yazılım A.Ş.</strong>
+  <strong>Karanix Technology Supplier.</strong>
 </p>
 
 ### About me
