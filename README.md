@@ -14,8 +14,7 @@ I am a founder and fintech technical project manager with a proven track record 
 
 ```javascript
 const kazim = {
-  role: "Founder | Technical Project Manager | AI Architect",
-  background: "Full-Stack Development",
+  role: "@Founder | [ AI, SaaS ve Fintech ]",
   company: "Karanix",
   focus: ["Fintech", "SaaS", "AI Products"],
   work: [
